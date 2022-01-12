@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Tämä on toinen dia.
+Toinen dia.
 Use the left arrow to go back!
